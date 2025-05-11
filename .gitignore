@@ -398,3 +398,4 @@ FodyWeavers.xsd
 *.sln.iml
 javascript-promises-asynchronous-code/pokemon-api/.DS_Store
 javascript-promises-asynchronous-code/.DS_Store
+.DS_Store
